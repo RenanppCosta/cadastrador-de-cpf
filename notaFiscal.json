@@ -1,0 +1,23 @@
+{
+    "numero":"081.012",
+    "cnpj":"91.130.371/0001-43",
+    "listaProdutos":[
+        {
+            "nome":"Camisa do Vasco",
+            "preço":120
+        },
+
+        {
+            "nome":"Camisa do Flamengo",
+            "preço":120
+        },
+
+        {
+            "nome":"Camisa Retro",
+            "preço":170
+        }
+    ],
+
+    "valorTotal":410
+
+}
