@@ -28,11 +28,6 @@
             "Sérgio",
             "Moraes"
         ]
-    },
-    {
-        "nome": "joão",
-        "cpf": "444.444.444-44",
-        "casado": false,
-        "filhos": []
     }
+   
 ]
