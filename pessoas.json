@@ -28,6 +28,24 @@
             "Sérgio",
             "Moraes"
         ]
+    },
+    {
+        "nome": "Renan",
+        "cpf": "555.555.555-55",
+        "casado": false,
+        "filhos": []
+    },
+    {
+        "nome": "Wendel",
+        "cpf": "888.888.888-88",
+        "casado": false,
+        "filhos": [
+            "João",
+            "Maria"
+        ]
+    },
+    {
+        "casado": false,
+        "filhos": []
     }
-   
 ]
